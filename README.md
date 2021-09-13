@@ -14,7 +14,7 @@ II. Implementation of the ICMP protocol responses on the switch
 
 III. Implementation of the ARP protocol responses on the switch
 
-![Alt text](SDN_APP/images/milestone1.png?raw=true "")
+![Alt text](SDN_APP/images/milestone1.png "sdn")
 
 
 
