@@ -9,10 +9,12 @@ Software Defined Networking (SDN) application that implements the functionality 
 The objective of this practice is to reproduce the Layer 3 (IPv4) packet switching processes that take place in a router. (IPv4) packet switching processes that take place in a  router. To implement the complete environment, we will proceed incrementally:
 
 I. Implementation of the routing table in the switch.
+
 II. Implementation of the ICMP protocol responses on the switch
+
 III. Implementation of the ARP protocol responses on the switch
 
-![Alt text](SND_APP/images/milestone1.png?raw=true "")
+![Alt text](SDN_APP/images/milestone1.png?raw=true "")
 
 
 
