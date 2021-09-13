@@ -16,11 +16,13 @@ III. Implementation of the ARP protocol responses on the switch
 
 ![Alt text](https://github.com/JMariadlcs/SDN_APP/blob/main/images/milestone1.png "")
 
+# Milestone 2
 
+In this step we introduce the functionality of sending packets from the controller. To do this, we will make it possible for the end devices to check the status of the switch gates by sending ICMP messages to the corresponding IP address. To do this, the controller will have to send ICMP response packets to the ICMP_REQUEST packets it receives.
 
+# Milestone 2
 
-
-
+In this step we will remove the static ARP protocol scheduling on the end devices and have the controller handle the ARP protocol response. To do this, we will add code to detect and decode ARP packets and an ARP_REQUEST packet response function in the management of packets sent by the switch to the controller.
 
 # License
 This project is a contribution of Jose María de la Cruz Sánchez and Jacobo del Castillo Monche.
